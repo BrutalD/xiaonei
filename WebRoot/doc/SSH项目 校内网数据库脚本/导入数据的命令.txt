@@ -1,0 +1,1 @@
+load data local infile 'D:\\data.txt' into table ±íÃû fields terminated by '\t';
